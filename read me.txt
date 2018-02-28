@@ -1,3 +1,4 @@
 copy " favicon.ico"  to root folder
 C:\wamp64\www
 replace it with previous one for this favicon.
+You will get the particular favicon for the provided website.
